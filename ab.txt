@@ -1,0 +1,2 @@
+Hello, today is my second day learning git.
+I have so much learning to do.
